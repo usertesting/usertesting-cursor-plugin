@@ -1,0 +1,19 @@
+{
+  "name": "usertesting",
+  "description": "Bring real customer feedback into Cursor — create, launch, and retrieve UserTesting results without leaving your editor.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UserTesting",
+    "email": "support@usertesting.com"
+  },
+  "license": "MIT",
+  "keywords": [
+    "usertesting",
+    "user-research",
+    "testing",
+    "ux-research",
+    "mcp"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": "mcp.json"
+}
