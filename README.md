@@ -12,18 +12,7 @@ Connect Cursor to UserTesting to bring real customer feedback into the way you p
 
 ## Setup
 
-1. Add this plugin from the Cursor Marketplace, or add the MCP server manually:
-
-   ```json
-   {
-     "mcpServers": {
-       "usertesting": {
-         "url": "https://ai.usertesting.com/mcp"
-       }
-     }
-   }
-   ```
-
+1. Add this plugin from the Cursor Marketplace.
 2. Authenticate with your UserTesting account when prompted (Auth0 login + consent screen).
 3. Try asking Cursor: "show me my UserTesting accounts."
 
