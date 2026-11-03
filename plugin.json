@@ -1,7 +1,7 @@
 {
   "name": "usertesting",
-  "description": "Bring real customer feedback into Cursor — create, launch, and retrieve UserTesting results without leaving your editor.",
-  "version": "1.0.0",
+  "description": "Build faster with AI. Build smarter with human insight.",
+  "version": "1.0.1",
   "author": {
     "name": "UserTesting",
     "email": "support@usertesting.com"
